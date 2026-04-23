@@ -1,4 +1,4 @@
-# Student 1 (SE-23023 Muhammad Yaafay) — Working Extraction Sheets
+# Reviewer 1 (SE-23023 Muhammad Yaafay) — Working Extraction Sheets
 
 This folder contains R1's independent working copies of extraction sheets
 before reconciliation with R2.

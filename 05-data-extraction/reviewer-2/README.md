@@ -1,4 +1,4 @@
-# Student 2 (SE-23025 Adil Javed) — Working Extraction Sheets
+# Reviewer 2 (SE-23025 Adil Javed) — Working Extraction Sheets
 
 This folder contains R2's independent working copies of extraction sheets
 before reconciliation with R1.
