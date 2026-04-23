@@ -1,0 +1,11 @@
+Search String 6
+Tool: Harzing's Publish or Perish (PoP) -- Google Scholar
+Date executed: 2026-03-20
+Keyword: aircraft crew rescheduling recovery
+
+Filters:
+  Date range: 2001-2025
+  Language: English (applied post-import in Rayyan)
+  Max results per PoP query: 200
+
+Results exported as RIS and imported into Rayyan for deduplication and screening.

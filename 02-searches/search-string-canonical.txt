@@ -1,0 +1,52 @@
+CANONICAL SEARCH STRINGS
+Last updated: 2026-03-05
+Locked for execution: 2026-03-20
+Tool: Harzing's Publish or Perish (PoP) — Google Scholar backend
+
+================================================================
+NOTE: Google Scholar via PoP does not support full Boolean queries.
+The following 10 strings were executed individually and results merged in Rayyan.
+================================================================
+
+STRING 1
+expert system airline disruption recovery
+
+STRING 2
+knowledge-based system airline recovery
+
+STRING 3
+airline disruption management optimization
+
+STRING 4
+airline irregular operations recovery system
+
+STRING 5
+decision support system aviation disruption
+
+STRING 6
+aircraft crew rescheduling recovery
+
+STRING 7
+flight delay prediction machine learning
+
+STRING 8
+passenger recovery airline disruption
+
+STRING 9
+aviation scheduling disruption management
+
+STRING 10
+IROPS airline recovery system
+
+================================================================
+Filters applied per search
+================================================================
+Date range: 2001–2025
+Language: English (post-import exclusion applied in Rayyan)
+Document types: Journal articles and conference proceedings
+
+================================================================
+Total records imported into Rayyan (pre-deduplication): 658
+Records from Google Scholar / PoP: 618
+Additional records identified from reference lists: 40
+================================================================
